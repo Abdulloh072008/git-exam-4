@@ -6,3 +6,7 @@
 .lgx {
     background: linear-gradient(to left, #0074B8, #02B0C5);
 }
+
+.brx {
+    border: 1px solid #00578A;
+}
